@@ -4,7 +4,7 @@ Switch Port 1 – HBA1 - 10:00:ff:05:1e:4b:d5:30 <br><br>
 Switch Port 2 – HBA2 - 10:00:ff:05:80:00:48:a5 <br><br>
 Switch Port 12 - Storage Array port1 - 50:01:10:80:00:ad:33:e8<br><br>
 Switch Port 13 - Storage Array port2 - 50:02:10:80:00:ac:f5:54<br><br>
-<P>In the next step we are going to zone HBA1 with Storage Array port 1 and HBA2 with Storage Array port2.
+<P><b>In the next step we are going to zone HBA1 with Storage Array port 1 and HBA2 with Storage Array port2.</b></P>
 <br><br>
 Step 1: Let’s assign an alias for each WWPN Following is the syntax,<br><br><br>
 switch:admin> alicreate “HostPort1”, “10:00:ff:05:1e:4b:d5:30″<br><br>
